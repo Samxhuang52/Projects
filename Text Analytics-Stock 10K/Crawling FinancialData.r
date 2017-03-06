@@ -81,7 +81,7 @@ hist(good$EBITDA)
 ##################
 # logistic regression
 ##################
-setwd('C:/Users/zzhan/Desktop/text accounting project')
+setwd('C:/Users/Desktop/text accounting project')
 
 y <- read.csv('finaltext.csv')
 head(y)
