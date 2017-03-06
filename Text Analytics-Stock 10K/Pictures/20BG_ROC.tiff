@@ -1,1 +1,2 @@
-
+git rm 20BG_ROC.tiff
+git commit -m "rm 20BG_ROC.tiff"
